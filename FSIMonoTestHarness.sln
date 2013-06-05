@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{4925A630-B079-445d-BCD4-3A9C94FE9307}") = "FSIMonoTestHarness", "FSIMonoTestHarness\FSIMonoTestHarness.fsproj", "{A3248464-66DB-4441-AF70-88F1F22577DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3248464-66DB-4441-AF70-88F1F22577DB}.Debug|x86.ActiveCfg = Debug|x86
+		{A3248464-66DB-4441-AF70-88F1F22577DB}.Debug|x86.Build.0 = Debug|x86
+		{A3248464-66DB-4441-AF70-88F1F22577DB}.Release|x86.ActiveCfg = Release|x86
+		{A3248464-66DB-4441-AF70-88F1F22577DB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = FSIMonoTestHarness\FSIMonoTestHarness.fsproj
+	EndGlobalSection
+EndGlobal
